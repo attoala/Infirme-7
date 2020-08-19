@@ -36,7 +36,7 @@ f = 1 /T    ,   ω T=2π    ,  ω =2πf
 **Generador de onda** 
 <section>
       <div class="container mt-5 mb-5">
-        <img src="img/4..PNG"
+        <img src="img/4.PNG"
           alt="Fuente de voltaje C.D."
           height="100"
           style ="float-left ml-4"
@@ -58,7 +58,7 @@ f = 1 /T    ,   ω T=2π    ,  ω =2πf
 **Resistores** de 1kΩ, 2.2kΩ. Los utilizaremos para crear el circuito que vamos a medir
 </section>
       <div class="container mt-5 mb-5">
-        <img src="img/0.0.PNG"
+        <img src="img/7.PNG"
           alt="Resistores"
           height="100"
           style ="float-left ml-4"
@@ -69,7 +69,7 @@ f = 1 /T    ,   ω T=2π    ,  ω =2πf
 **Protoboard.** Es la base en la cual se va a formar el circuito con los elementos de este.
 </section>
       <div class="container mt-5 mb-5">
-        <img src="img/3..PNG"
+        <img src="img/8.PNG"
           alt="Protoboard"
           height="100"
           style ="float-left ml-4"
@@ -193,7 +193,7 @@ El multímetro mide varios valores, porque es corriente alterna.
 
  </section>
       <div class="container mt-5 mb-5">
-        <img src="img/13.jpg"
+        <img src="img/12.PNG"
           alt="listado de todos los componentes utilizados para el circuito"
           height="400"
           style ="float-left ml-4"
