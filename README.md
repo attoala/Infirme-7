@@ -81,7 +81,7 @@ f = 1 /T    ,   ω T=2π    ,  ω =2πf
 **Osiloscopio.** 
 </section>
       <div class="container mt-5 mb-5">
-        <img src="img/8.PNG"
+        <img src="img/0.0.PNG"
           alt="Protoboard"
           height="100"
           style ="float-left ml-4"
