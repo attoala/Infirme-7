@@ -172,7 +172,7 @@ El multímetro mide varios valores, porque es corriente alterna.
       <div class="container mt-5 mb-5">
         <img src="img/0.0.0.0.0.PNG"
           alt="Protoboard con Voltimetros
-          height="100"
+          height="26"
           style ="float-left ml-4"
         />           
    </div>
@@ -195,7 +195,7 @@ El multímetro mide varios valores, porque es corriente alterna.
       <div class="container mt-5 mb-5">
         <img src="img/12.PNG"
           alt="listado de todos los componentes utilizados para el circuito"
-          height="100"
+          height="150"
           style ="float-left ml-4"
         />           
    </div>
