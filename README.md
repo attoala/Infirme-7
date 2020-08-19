@@ -109,7 +109,7 @@ Ramas: La unión de 2 nodos.
 Arme el circuito que se muestra en la figura.
 </section>
       <div class="container mt-5 mb-5">
-        <img src="img/9.PNG"
+        <img src="img/9..PNG"
           alt="Digrama del circuito"
           height="200"
           style ="float-left ml-4"
