@@ -122,7 +122,9 @@ Arme el circuito que se muestra en la figura.
 una frecuencia de 2.5 Khz.
 7.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
+
 7.5.4. Responda las siguientes preguntas:
+
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV? 
