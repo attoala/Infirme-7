@@ -159,7 +159,7 @@ No coinciden
 El multímetro mide varios valores, porque es corriente alterna.
 
 ## **DIAGRAMAS**
-</section>
+<section>
       <div class="container mt-5 mb-5">
         <img src="img/0.0..0.PNG"
           alt="Protoboard con multiples resistencias"
@@ -168,16 +168,18 @@ El multímetro mide varios valores, porque es corriente alterna.
         />           
    </div>
    </section>
-   </section>
+   
+   <section>
       <div class="container mt-5 mb-5">
         <img src="img/0.0.0.0.0.PNG"
           alt="Protoboard con Voltimetros
-          height="26"
+          height="203"
           style ="float-left ml-4"
         />           
    </div>
    </section>
-   </section>
+				  
+   <section>
       <div class="container mt-5 mb-5">
         <img src="img/0.0.0.0.PNG"
           alt="Protoboard con Amperimetros"
